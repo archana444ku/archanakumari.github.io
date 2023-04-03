@@ -341,8 +341,13 @@ nav .logo.space {
   padding: 60px;
   justify-content: center;
   align-items: center;
-  background: #222;
-}
+  background: #a965a9;
+/* }
+.section{
+  background-image: url(pick/add2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+} */
 
 .wrapper {
   display: flex;
@@ -375,7 +380,7 @@ nav .logo.space {
   display: block;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to bottom, rgba(0, 176, 155, 0.5), rgba(150, 201, 61, 1));
+  background: linear-gradient(to bottom, rgba(141, 45, 148, 0.5), rgb(201, 61, 175));
   z-index: 2;
   transition: 0.5s all;
   opacity: 0;
@@ -457,7 +462,7 @@ nav .logo.space {
 }
 
 .footer-distributed .footer-left p {
-  color: #8f9296;
+  color: #8f9296; 
   font-size: 14px;
   margin: 0;
 }
