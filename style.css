@@ -342,12 +342,13 @@ nav .logo.space {
   justify-content: center;
   align-items: center;
   background: #a965a9;
-/* }
-.section{
-  background-image: url(pick/add2.jpg);
+}
+
+.section {
+  background-image: url(pick/add6.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
-} */
+}
 
 .wrapper {
   display: flex;
@@ -462,7 +463,7 @@ nav .logo.space {
 }
 
 .footer-distributed .footer-left p {
-  color: #8f9296; 
+  color: #8f9296;
   font-size: 14px;
   margin: 0;
 }
